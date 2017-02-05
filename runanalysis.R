@@ -61,4 +61,4 @@ names(all_data) <- names_temp
 library(plyr);
 all_data_2 <- aggregate(. ~subject + activity, all_data, mean)
 all_data_2 <- all_data_2[order(all_data_2$subject,all_data_2$activity),]
-write.table(all_data_2, file = "tidydata.txt",row.name=FALSE)
+write.table(all_data_2, file = "tidydata.txt", row.name=FALSE)
