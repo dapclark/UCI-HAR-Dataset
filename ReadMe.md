@@ -20,15 +20,19 @@ The assignment is to "create one R script called run_analysis.R that does the fo
 To complete the assignment, I began by working to create the complete, combined data set, in this order:
 
 ### Import and Label Subject Numbers
-1. Import "test" subject numbers and name the column "subject"
-2. Import "train" subject numbers and name the column "subject"
+1. Import "test" subject numbers and name the column "subject."
+2. Import "train" subject numbers and name the column "subject."
 3. Combine the "test" and "train" subjects.
 
 ### Import and Label Activities
-1. Import "test" activity numbers and name the column "activity"
-2. Import "train" activity numbers and name the column "activity"
-3. Combine the "test" and "train" activies.
+1. Import "test" activity numbers and name the column "activity."
+2. Import "train" activity numbers and name the column "activity."
+3. Combine the "test" and "train" activities.
 4. Use the "factor" function to convert activity numbers to their matching character labels.
 
 ### Import and Label Subjects
-1. 
+1. Import "test" subject numbers.
+2. Import "train" subject numbers.
+3. Combine the "test" and "train" subjects.
+4. Read in the column names from "features.txt" and assign them to the columns.
+
