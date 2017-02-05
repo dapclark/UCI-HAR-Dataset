@@ -3,7 +3,7 @@ Tidying the UCI HAR Dataset
 
 This repository contains a single [run_analysis.R](https://github.com/dapclark/UCI-HAR-Dataset/blob/master/runanalysis.R) R script that combines, tidies, and labels the separate files of the [UCI "Human Activity Recognition" dataset] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). 
 
-This script was written for Coursera's course on ["Getting and Cleaning Data"] (https://www.coursera.org/learn/data-cleaning).
+This script was written for Coursera's course on ["Getting and Cleaning Data"] (https://www.coursera.org/learn/data-cleaning). The CodeBook is available [here](https://github.com/dapclark/UCI-HAR-Dataset/blob/master/CodeBook.md).
 
 ## Assignment
 
