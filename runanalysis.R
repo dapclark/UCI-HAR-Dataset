@@ -1,6 +1,6 @@
 library(plyr)
 
-## 1. Merges the training and the test sets to create one data set.
+## 1. Merges the training and the test sets to create one data set. 
 
 ## Import and combine subject data (and name the column ("subject")
 test_subject <- read.table("UCI HAR Dataset/test/subject_test.txt", header = FALSE, col.names=c("subject"))
