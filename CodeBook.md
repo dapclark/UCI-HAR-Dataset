@@ -37,6 +37,7 @@ names_temp <- tolower (names_temp)
 
 These are the 66 variables that result from the process:
 
+```R
 time-body-acceleration-mean-x
 time-body-acceleration-mean-y
 time-body-acceleration-mean-z
@@ -103,3 +104,4 @@ frequency-body-gyro-magnitude-mean
 frequency-body-gyro-magnitude-std
 frequency-body-gyro-jerk-magnitude-mean
 frequency-body-gyro-jerk-magnitude-std
+```
